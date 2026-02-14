@@ -1,0 +1,16 @@
+ls                           => List files
+cd <dir>                     => Change directory
+pwd                          => Show current path
+mkdir <dir>                  => Make directory
+rm <file>                    => Delete file
+rm -r <dir>                  => Delete folder
+cp <src> <dest>              => Copy file/folder
+mv <src> <dest>              => Move/rename
+touch <file>                 => Create empty file
+cat <file>                   => View file contents
+grep "text" <file>           => Search in file
+sudo apt update && upgrade   => Update system (Linux)
+chmod +x <file>              => Make file executable
+ping <host>                  => Check network
+curl <url>                   => Fetch web data
+clear                        => Clear terminal

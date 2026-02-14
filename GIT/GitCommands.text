@@ -1,0 +1,14 @@
+git init                     => Start a new Git repo
+git clone <url>              => Clone a repo
+git status                   => Check file status
+git add .                    => Stage all changes
+git commit -m "message"      => Commit changes
+git push origin <branch>     => Push to remote
+git pull origin <branch>     => Pull from remote
+git branch                   => List branches
+git checkout -b <branch>     => Create & switch branch
+git merge <branch>           => Merge branch
+git log                      => View commit history
+git stash                    => Save changes temporarily
+git stash pop                => Restore stashed changes
+git reset --hard HEAD        => Undo all local changes
